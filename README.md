@@ -46,6 +46,9 @@ We will actively support modern browsers, IE 11 and up. For older browsers:
 - We won't "support" older browsers with any sense of urgency, priority, or completeness.
 - We're not trying to polyfill new CSS features like grid, or recreate the full html5 "shiv"
 
+## その他のCSSリセット・ノーマライズ
+[モダンブラウザに適したCSSリセットのまとめ](https://coliss.com/articles/build-websites/operation/css/css-reset-for-modern-browser.html)
+
 ## Inspiration and History
 
 * [How browsers are supposed to render things](https://html.spec.whatwg.org/multipage/rendering.html)
